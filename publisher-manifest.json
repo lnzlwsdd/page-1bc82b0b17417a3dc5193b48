@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5efc939b85c3102a5918a080",
+  "owner": "lnzlwsdd",
+  "repo": "page-1bc82b0b17417a3dc5193b48",
+  "title": "speedtv",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1bc82b0b17417a3dc5193b48",
+      "a": "speedtv",
+      "b": "机场官网线路发布页",
+      "entity": "speedtv",
+      "brand": "speedtv",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b4e7bc86ee2a6b062ffe054fa1817fd55bf380504e6079e416aabbe375c95886",
+      "content": {
+        "primary_entity": "speedtv",
+        "keyword1": "speedtv",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选合适客户端，获取订阅链接后导入即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅导入",
+          "AI_CLOSING_TEXT": "选择合适的套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "即刻开启加速体验",
+          "AI_DESCRIPTION": "，提供多档套餐与灵活订阅，覆盖基础流媒体到专线游戏加速，适合从个人到团队的不同设备规模。",
+          "AI_FAQ_ANSWER_1": "按照月流量需求来选：每月约 100GB 选基础版，300GB 左右推荐旗舰版，1000GB 且设备众多则考虑团队版。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台，旗舰版支持 5 台，团队版最高支持 20 台设备同时在线。",
+          "AI_FAQ_ANSWER_3": "客户端连接后会自动拉取订阅节点，无需手动逐条添加。更换设备时重新导入订阅链接即可。",
+          "AI_FAQ_ANSWER_4": "有。按年付基础版为 150 元，旗舰版为 350 元，团队版为 850 元，比按月支付更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版使用 IPLC 专线并针对游戏加速优化，延迟表现通常优于基础版的普通线路节点池。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "怎么根据自己的流量需求选套餐？",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在多台设备上使用吗？",
+          "AI_FAQ_QUESTION_3": "换设备后需要重新配置节点吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "团队版和旗舰版在游戏加速上有什么不同？",
+          "AI_FAQ_TITLE": "常见问题解答",
+          "AI_FEATURES_INTRO": "从套餐、设备数和订阅周期三方面，快速了解如何选择适合自己的方案。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版配 5 台设备与 IPLC 专线，兼顾多人使用与游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版提供 20 台设备与专属高带宽节点，方便小型团队共用。",
+          "AI_FEATURE_TITLE_1": "套餐分级清晰",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的全过程。",
+          "AI_GUIDE_TITLE": "快速上手三步",
+          "AI_HERO_INTRO": "speedtv 提供多档海外加速套餐，从基础流媒体到 IPLC 专线游戏优化，按设备数与流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活订阅",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 15 元/月，旗舰版 35 元/月，团队版 85 元/月，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与设备数，从基础版、旗舰版、团队版中挑选适合的档位。",
+          "AI_STEP_TEXT_2": "确认设备数量不超出所选套餐上限，旗舰版与团队版支持更多终端。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成节点更新即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "speedtv 多档加速套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jzgsvgd.cn",
+    "host": "jzgsvgd.cn"
+  },
+  "file_hashes": {
+    "index.html": "48bd0679b2e3aaadad8b6e6e2e1f34092a22cc2443e59539c25d14b57a3402d4",
+    "sitemap.xml": "aa6d78378ba3c0fe6188d9e42fd90b98f059b2fbc3fce375cda2e80a81c4c201",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4a37cea5ee526523313b0bd4ceb351643337f6227f39a7c74e400498a67a2aae",
+    "robots.txt": "acc6cf7349428d4220c10d3104c5d0fe8b42730fca25caba18792322852ecc72",
+    "dfb67b587d2e4d76f2b5e7175eee958c.txt": "47cb743d6ac90a2a5d1353e816fd2565745bf8944d9ca4c310378a8d6fa75479"
+  },
+  "revision": "58c0c1bc4aae6a5ae41e0e3b8b44ce79755d289f081432c1cec08f5a8be97879"
+}
